@@ -4,7 +4,7 @@ title: "새 포스트 작성 요령"
 ---
 
 
-### 포스트 작성
+### 포스트 작성예시
 ### _posts/2022-07-05-HowToMakeNewPost.md
 
 
